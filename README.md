@@ -1,4 +1,4 @@
-Big Mart Sales Practice Problem
+Big Mart Sales Prediction Problem
 
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. The data also includes certain attributes of each product and store.
 
