@@ -1,20 +1,20 @@
-Big Mart Sales Prediction Problem
+# Big Mart Sales Prediction 
 
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. The data also includes certain attributes of each product and store.
 
-Objective : -
+# Objective : -
 
 The objective is to build a predictive model and find out the sales of each product at a particular store. Big Mart will use this model to understand the properties of products and stores which play a key role in increasing sales.
 
-Metric : -
+# Metric : -
 
 The model performance will be evaluated on the basis of its prediction of the sales for the test data. Big Mart will use Root Mean Square Error (RMSE) value to judge your response.
 
-Hypothesis : -
+# Hypothesis : -
 
 This is a crucial step in the ML process. It involves understanding the problem and making some hypothesis about what factors could potentially affect the outcome of the problem statement. This step should be done BEFORE looking at the data.
 
-Store level hypotheses :-
+# Store level hypotheses :-
 
 City type – Store located in Tier 1 cities should have higher sales due to higher average income level
 
